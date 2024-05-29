@@ -1,0 +1,2 @@
+# telestake
+Telegram gaming app
